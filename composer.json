@@ -9,10 +9,6 @@
             "email": "logaretm1@gmail.com"
         }
     ],
-    "require": {
-        "illuminate/support": "^5.2",
-        "illuminate/console": "^5.2"
-    },
     "autoload": {
         "psr-4": {
             "Logaretm\\Transformers\\": "src/"
